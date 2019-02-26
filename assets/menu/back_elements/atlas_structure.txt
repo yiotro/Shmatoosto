@@ -1,0 +1,20 @@
+compression=9.0
+rows=200
+bg1.png#0 0 24 24
+bg2.png#25 0 24 24
+bg3.png#50 0 24 24
+bg4.png#75 0 24 24
+bg5.png#100 0 24 24
+bg6.png#125 0 24 24
+bg1_low.png#150 0 2 2
+bg2_low.png#153 0 2 2
+bg3_low.png#156 0 2 2
+bg4_low.png#159 0 2 2
+bg5_low.png#162 0 2 2
+bg6_low.png#165 0 2 2
+bg1_lowest.png#168 0 1 1
+bg2_lowest.png#170 0 1 1
+bg3_lowest.png#172 0 1 1
+bg4_lowest.png#174 0 1 1
+bg5_lowest.png#176 0 1 1
+bg6_lowest.png#178 0 1 1

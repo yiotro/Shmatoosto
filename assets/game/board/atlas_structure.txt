@@ -1,0 +1,23 @@
+compression=3.0
+rows=700
+bb_corner.png#0 0 128 128
+bb_corner_shadow.png#129 0 128 128
+bb_middle.png#258 0 128 128
+bb_middle_shadow.png#387 0 128 128
+bb_side.png#516 0 128 128
+bb_side_shadow.png#0 129 128 128
+bb_corner_low.png#129 129 32 32
+bb_corner_shadow_low.png#162 129 32 32
+bb_middle_low.png#195 129 32 32
+bb_middle_shadow_low.png#228 129 32 32
+bb_side_low.png#261 129 32 32
+bb_side_shadow_low.png#294 129 32 32
+bb_corner_lowest.png#327 129 16 16
+bb_corner_shadow_lowest.png#344 129 16 16
+bb_middle_lowest.png#361 129 16 16
+bb_middle_shadow_lowest.png#378 129 16 16
+bb_side_lowest.png#395 129 16 16
+bb_side_shadow_lowest.png#412 129 16 16
+dec_circle.png#429 129 16 16
+dec_circle_low.png#446 129 4 4
+dec_circle_lowest.png#451 129 2 2
